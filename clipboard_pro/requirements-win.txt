@@ -1,0 +1,11 @@
+# Dépendances Klip pour Windows 10/11.
+# Installer dans un venv :  py -m pip install -r clipboard_pro/requirements-win.txt
+PyQt6>=6.6
+pywin32>=306
+psutil>=5.9
+Pillow>=10.0
+pynput>=1.7
+
+# OCR Windows (optionnel) — sans ça, l'app marche mais sans OCR des images.
+# Nécessite aussi d'installer Tesseract-OCR séparément (UB-Mannheim build).
+# pytesseract>=0.3.10

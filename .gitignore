@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.eggs/
+
+# Virtualenv
+.venv/
+venv/
+env/
+
+# Build artifacts
+build/
+dist/
+*.dmg
+
+# macOS
+.DS_Store
+.metadata_never_index
+
+# Backups
+*.bak
+*.gemini_backup_*
+*.orig
+*~
+
+# Logs
+*.log
+cliplog.txt
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+
+# Licences (ne jamais committer)
+klip_master_key.secret
+*.secret
+license.dat

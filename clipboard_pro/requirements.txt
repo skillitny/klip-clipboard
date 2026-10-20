@@ -1,0 +1,6 @@
+PyQt6>=6.6
+pyobjc-core>=10.0
+pyobjc-framework-Cocoa>=10.0
+pyobjc-framework-Quartz>=10.0
+pyobjc-framework-Vision>=10.0
+pynput>=1.7
